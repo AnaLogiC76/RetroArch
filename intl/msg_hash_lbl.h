@@ -2105,3 +2105,7 @@ MSG_HASH(MENU_ENUM_LABEL_DRIVER_SWITCH_ENABLE,
       "driver_switch_enable")
 MSG_HASH(MENU_ENUM_LABEL_AI_SERVICE_PAUSE,
       "ai_service_pause")
+MSG_HASH(MENU_ENUM_LABEL_INPUT_TURBO_MODE,
+      "input_turbo_mode")
+MSG_HASH(MENU_ENUM_LABEL_INPUT_TURBO_DEFAULT_BUTTON,
+      "input_turbo_default_button")
